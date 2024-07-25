@@ -7,5 +7,8 @@
   },
   "author": "radhe",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
